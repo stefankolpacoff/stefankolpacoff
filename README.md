@@ -47,10 +47,10 @@ I have a Bachelor's degree in Computer Sciences and a background in research for
 ### <div align="center">🚀 A little more about myself 🚀<div/>
 
 <div align="left">
-    - 🔭 Currently working on React web and mobile apps <br/>
-    - 💻 Open to work Remote / Hybrid <br/>
-    - 🎁 I’m learning new things everyday <br/>
-    - 💾 Freelance [Dev, Data, GIS] consultant <br/>
+    - 💻 Currently working on React web and mobile apps <br/>
+    - 🌎 Open to work Remote / Hybrid <br/>
+    - 💼 Freelance [Dev, Data, GIS] consultant <br/>
+    - 📈 I’m learning new things everyday <br/>
     - 💚 I like hiking, cooking, gaming and much more. <br/>
     - 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com">Email<a/> <br/>
 <div/>

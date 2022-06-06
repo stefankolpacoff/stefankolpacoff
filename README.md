@@ -4,8 +4,8 @@
 
 ## <div align="center">🌟 Profile 🌟<div/>
 
-<h3 align="left"> Welcome to my page I'm Stefan, Fullstack developer currently living in France.
-I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<h3/>
+<p align="left"> Welcome to my page I'm Stefan, Fullstack developer currently living in France.
+I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<p/>
 
 ## <div align="center">⚡ Technologies & Tools ⚡<div/>
 
@@ -48,6 +48,6 @@ I have a Bachelor's degree in computer science and a background in research for 
     - 🔭 I’m currently working on React web and mobile apps <br/>
     - 🎁 I’m learning new things everyday <br/>
     - 💾 Freelance [Dev, Data, GIS] consultant <br/>
-    - 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com" object="Hello from GitHub">Email<a/> <br/>
+    - 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com">Email<a/> <br/>
     - 💚 I like hiking, cooking, gaming and much more. <br/>
 <div/>

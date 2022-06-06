@@ -2,24 +2,28 @@
 
 <h1>Hi there 👋 thanks for stopping by <h1/>
 
-<h2> Welcome to my page <br> I'm Stefan , Fullstack developer from the US currently living in France. I have a Bachelor's degree in computer science<h2/>
+<h2> Welcome to my page <br> I'm Stefan, Fullstack developer currently living in France. I have a Bachelor's degree in computer science and an  background in research for ecosystem sustainability.<h2/>
 
 ## ⚡ Technologies
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+<img alt="github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+
+<img alt="gitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+
+<img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
+
+<img alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman"/>
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
@@ -33,8 +37,14 @@
 
 <img alt="RaspBerry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
 
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino" />
+
 </p>
 
+## 🚀 A little more about myself
+
 - 🔭 I’m currently working on React web and mobile apps
-- 🌱 I’m learning new things everyday
-- 📫 Feel free to reach out: <a href="mailto:matyo91@gmail.com">Email<a/>
+- 🎁 I’m learning new things everyday
+- 💾 Freelance [Dev, Data, GIS] consultant
+- 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com">Email<a/>
+- 💚 I like hiking, cooking, gaming and much more.

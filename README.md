@@ -1,17 +1,15 @@
+<h1>Hi there 👋 <br>
+Thanks for stopping by <h1/>
 ## 🌟 Profile
 
-<h1>Hi there 👋 thanks for stopping by <h1/>
+<h2> Welcome to my page <br> I'm Stefan, Fullstack developer currently living in France.<br> I have a Bachelor's degree in computer science and a  background in research for ecosystem sustainability.<h2/>
 
-<h2> Welcome to my page <br> I'm Stefan, Fullstack developer currently living in France. I have a Bachelor's degree in computer science and an  background in research for ecosystem sustainability.<h2/>
-
-## ⚡ Technologies
+## ⚡ Technologies & Tools
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-<img alt="github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
@@ -46,5 +44,5 @@
 - 🔭 I’m currently working on React web and mobile apps
 - 🎁 I’m learning new things everyday
 - 💾 Freelance [Dev, Data, GIS] consultant
-- 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com">Email<a/>
+- 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com" subject="Hello from GitHub">Email<a/>
 - 💚 I like hiking, cooking, gaming and much more.

@@ -8,7 +8,8 @@
 <p> Welcome to my page I'm Stefan, Fullstack developer currently living in France. <br>
 I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<p/>
 <div/>
-## <div align="center">⚡ Technologies & Tools ⚡<div/>
+
+## <div align="center" color="black">⚡ Technologies & Tools ⚡<div/>
 
 <p align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -45,7 +46,7 @@ I have a Bachelor's degree in computer science and a background in research for 
 
 ## <div align="center">🚀 A little more about myself 🚀<div/>
 
-<div>
+<div align="left">
     - 🔭 I’m currently working on React web and mobile apps <br/>
     - 🎁 I’m learning new things everyday <br/>
     - 💾 Freelance [Dev, Data, GIS] consultant <br/>

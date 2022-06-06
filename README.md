@@ -47,7 +47,8 @@ I have a Bachelor's degree in computer sciences and a background in research for
 ### <div align="center">🚀 A little more about myself 🚀<div/>
 
 <div align="left">
-    - 🔭 I’m currently working on React web and mobile apps <br/>
+    - 🔭 Currently working on React web and mobile apps <br/>
+    - 💻 Open for new opportunites <br/>
     - 🎁 I’m learning new things everyday <br/>
     - 💾 Freelance [Dev, Data, GIS] consultant <br/>
     - 💚 I like hiking, cooking, gaming and much more. <br/>

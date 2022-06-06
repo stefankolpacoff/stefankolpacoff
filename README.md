@@ -1,15 +1,13 @@
-<video width="100%" height="240" controls loop autoplay>
-  <source src="video.mp4" type="video/mp4">
-</video>
-
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
 Thanks for stopping by <h1/>
 
-## 🌟 Profile
+## 🌟 Profile 🌟
 
-<h2> Welcome to my page <br> I'm Stefan, Fullstack developer currently living in France.<br> I have a Bachelor's degree in computer science and a  background in research for ecosystem sustainability.<h2/>
+<h2> Welcome to my page <h2/> 
+<h2> I'm Stefan, Fullstack developer currently living in France.<h2/> 
+<h3> I have a Bachelor's degree in computer science and a  background in research for ecosystem sustainability.<h3/>
 
-## ⚡ Technologies & Tools
+## ⚡ Technologies & Tools ⚡
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -44,7 +42,7 @@ Thanks for stopping by <h1/>
 
 </p>
 
-## 🚀 A little more about myself
+## 🚀 A little more about myself 🚀
 
 - 🔭 I’m currently working on React web and mobile apps
 - 🎁 I’m learning new things everyday

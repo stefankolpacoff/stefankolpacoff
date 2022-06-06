@@ -4,9 +4,10 @@
 
 ## <div align="center">🌟 Profile 🌟<div/>
 
-<p align="left"> Welcome to my page I'm Stefan, Fullstack developer currently living in France.
+<div align="left">
+<p> Welcome to my page I'm Stefan, Fullstack developer currently living in France. <br>
 I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<p/>
-
+<div/>
 ## <div align="center">⚡ Technologies & Tools ⚡<div/>
 
 <p align="left">

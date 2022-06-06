@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
 Thanks for stopping by <h1/>
 
-## 🌟 Profile 🌟
+## <div align="center">🌟 Profile 🌟<div/>
 
 <h3 align="left"> Welcome to my page I'm Stefan, Fullstack developer currently living in France.
 I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<h3/>

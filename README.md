@@ -1,11 +1,14 @@
+<div align="center">
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
 Thanks for stopping by <h1/>
+<div/>
 
+<div align="center">
 ## 🌟 Profile 🌟
+<div/>
 
-<h2> Welcome to my page <h2/> 
-<h2> I'm Stefan, Fullstack developer currently living in France.<h2/> 
-<h3> I have a Bachelor's degree in computer science and a  background in research for ecosystem sustainability.<h3/>
+<h2> Welcome to my page I'm Stefan, Fullstack developer currently living in France.
+ I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<h2/>
 
 ## ⚡ Technologies & Tools ⚡
 

@@ -1,16 +1,12 @@
-<div align="center">
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
+<h1 align="center >Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br>
 Thanks for stopping by <h1/>
-<div/>
 
-<div align="center">
-    <h1>🌟 Profile 🌟<h1/>
-<div/>
+## 🌟 Profile 🌟
 
-<h3 align="left"> Welcome to my page I'm Stefan, Fullstack developer currently living in France.
+<h3 align="left"> Welcome to my page I'm **Stefan**, Fullstack developer currently living in France.
 I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<h3/>
 
-<h1>⚡ Technologies & Tools ⚡<h1/>
+## ⚡ Technologies & Tools ⚡
 
 <p align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />

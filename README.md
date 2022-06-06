@@ -48,9 +48,11 @@ Thanks for stopping by <h1/>
 ## 🚀 A little more about myself 🚀
 
 <div align="left">
-- 🔭 I’m currently working on React web and mobile apps
-- 🎁 I’m learning new things everyday
-- 💾 Freelance [Dev, Data, GIS] consultant
-- 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com" subject="Hello from GitHub">Email<a/>
-- 💚 I like hiking, cooking, gaming and much more.
+    <ul>
+        <li> 🔭 I’m currently working on React web and mobile apps <li/>
+        <li> 🎁 I’m learning new things everyday <li/>
+        <li> 💾 Freelance [Dev, Data, GIS] consultant <li/>
+        <li> 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com" subject="Hello from GitHub">Email<a/> <li/>
+        <li> - 💚 I like hiking, cooking, gaming and much more. <li/>
+    <ul>
 <div/>

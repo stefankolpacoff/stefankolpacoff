@@ -48,6 +48,6 @@ I have a Bachelor's degree in computer science and a background in research for 
     - 🔭 I’m currently working on React web and mobile apps <br/>
     - 🎁 I’m learning new things everyday <br/>
     - 💾 Freelance [Dev, Data, GIS] consultant <br/>
-    - 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com" subject="Hello from GitHub">Email<a/> <br/>
+    - 📫 Feel free to reach out: <a href="mailto:stefan.kolpacoff@gmail.com" object="Hello from GitHub">Email<a/> <br/>
     - 💚 I like hiking, cooking, gaming and much more. <br/>
 <div/>

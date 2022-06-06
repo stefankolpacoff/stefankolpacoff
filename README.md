@@ -3,7 +3,7 @@ Thanks for stopping by <h1/>
 
 ## 🌟 Profile 🌟
 
-<h3 align="left"> Welcome to my page I'm **Stefan**, Fullstack developer currently living in France.
+<h3 align="left"> Welcome to my page I'm ***Stefan***, Fullstack developer currently living in France.
 I have a Bachelor's degree in computer science and a background in research for ecosystem sustainability.<h3/>
 
 ## ⚡ Technologies & Tools ⚡

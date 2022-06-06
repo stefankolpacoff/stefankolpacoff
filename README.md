@@ -1,4 +1,4 @@
-<video autoplay>
+<video width="100%" height="240" controls loop autoplay>
   <source src="video.mp4" type="video/mp4">
 </video>
 

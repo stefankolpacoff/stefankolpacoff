@@ -1,5 +1,6 @@
 <h1>Hi there 👋 <br>
 Thanks for stopping by <h1/>
+
 ## 🌟 Profile
 
 <h2> Welcome to my page <br> I'm Stefan, Fullstack developer currently living in France.<br> I have a Bachelor's degree in computer science and a  background in research for ecosystem sustainability.<h2/>

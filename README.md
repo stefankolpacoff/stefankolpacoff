@@ -5,7 +5,7 @@
 ### <div align="center">🌟 Profile 🌟<div/>
 
 <div align="left">
-<p> Welcome to my page! <br/>I'm Stefan, Fullstack Developer currently living in France. <br>
+<p> Welcome to my page! <br/>I'm Stefan, GIS Developer / Analyst living in France. <br>
 I have a Bachelor's degree in Computer Sciences and a background in research for ecosystem sustainability.<p/>
 <div/>
 

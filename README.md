@@ -5,8 +5,8 @@
 ### <div align="center">🌟 Profile 🌟<div/>
 
 <div align="left">
-<p> Welcome to my page! <br/>I'm Stefan, GIS Developer / Analyst living in France. <br>
-I have a Bachelor's degree in Computer Sciences and a background in research for ecosystem sustainability.<p/>
+<p> Welcome to my page! <br/>I'm Stefan, GIS Developer / Scientist living in France. <br>
+I have a BS in Computer Sciences and a background in satellite data and geospatial R&D <p/>
 <div/>
 
 ### <div align="center" color="black">⚡ Technologies & Tools ⚡<div/>
@@ -47,7 +47,7 @@ I have a Bachelor's degree in Computer Sciences and a background in research for
 ### <div align="center">🚀 A little more about myself 🚀<div/>
 
 <div align="left">
-    - 💻 Currently working on React web and mobile apps <br/>
+    - 💻 Currently working as a project manager with MaxSea <br/>
     - 🌎 Open to work Remote / Hybrid <br/>
     - 💼 Freelance [Dev, Data, GIS] consultant <br/>
     - 📈 I’m learning new things everyday <br/>
